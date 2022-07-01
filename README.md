@@ -11,7 +11,7 @@ This is a weather API that will find the weather forcast based on the location y
    
 
 ## Deployment:
-GitHub Repo: https://github.com/mbutlertechtraining/Marios_Workday_Scheduler.git
+GitHub Repo: https://github.com/mbutlertechtraining/Weather-Dashboard.git
 
 GitHub Pages: https://github.com/mbutlertechtraining/Marios_Workday_Scheduler.git
 
