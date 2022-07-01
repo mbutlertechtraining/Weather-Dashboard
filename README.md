@@ -15,8 +15,6 @@ GitHub Repo: https://github.com/mbutlertechtraining/Weather-Dashboard.git
 
 GitHub Pages: https://mbutlertechtraining.github.io/Weather-Dashboard/
 
-![picture]image1
-
 ## Installation:
 1. No installation if needed
 
